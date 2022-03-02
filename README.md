@@ -16,5 +16,34 @@ DATABASE
 
 OBS
 
-  Para instalação dos middlewares foi utilizado o NPM para instalação
-  O projeto está configurado para responder na porta 3000
+  Para instalação dos middlewares foi utilizado o NPM para instalação.
+  O projeto está configurado para responder na porta 3000.
+  Os modelos JSON para utilização estáo disponíveis ma pasta "modelos".
+  
+  
+END POINTS
+
+  /sis/autenticar
+  /sis/importacoes/usuarios
+  
+  /usu/usuarios/index
+  /usu/usuarios/salvar
+  /usu/usuarios/editar
+  /usu/usuarios/excluir
+  /usu/usuarioDepartamento/index
+  
+  /usu/departamentos/index
+  /usu/departamentos/salvar
+  /usu/departamentos/editar
+  /usu/departamentos/excluir
+  /usu/departamentosCentroCusto/index
+  
+  /fin/centrosCusto/index
+  /fin/centrosCusto/salvar
+  /fin/centrosCusto/editar
+  /fin/centrosCusto/excluir
+  
+  /usu/cargos/index
+  /usu/cargos/salvar
+  /usu/cargos/editar
+  /usu/cargos/excluir
