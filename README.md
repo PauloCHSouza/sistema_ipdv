@@ -26,42 +26,42 @@ OBS
   
 END POINTS
 
-  /sis/autenticar
+  /sis/autenticar (POST)
   
-  /sis/importacoes/usuarios
+  /sis/importacoes/usuarios (POST)
   
-  /usu/usuarios/index
+  /usu/usuarios/index (GET)
   
-  /usu/usuarios/salvar
+  /usu/usuarios/salvar (POST)
   
-  /usu/usuarios/editar
+  /usu/usuarios/editar (POST)
   
-  /usu/usuarios/excluir
+  /usu/usuarios/excluir (DELETE)
   
-  /usu/usuarioDepartamento/index
+  /usu/usuarioDepartamento/index (GET)
   
-  /usu/departamentos/index
+  /usu/departamentos/index (GET)
   
-  /usu/departamentos/salvar
+  /usu/departamentos/salvar (POST)
   
-  /usu/departamentos/editar
+  /usu/departamentos/editar (POST)
   
-  /usu/departamentos/excluir
+  /usu/departamentos/excluir (DELETE)
   
-  /usu/departamentosCentroCusto/index
+  /usu/departamentosCentroCusto/index (GET)
   
-  /fin/centrosCusto/index
+  /fin/centrosCusto/index (GET)
   
-  /fin/centrosCusto/salvar
+  /fin/centrosCusto/salvar (POST)
   
-  /fin/centrosCusto/editar
+  /fin/centrosCusto/editar (POST)
   
-  /fin/centrosCusto/excluir
+  /fin/centrosCusto/excluir (DELETE)
   
-  /usu/cargos/index
+  /usu/cargos/index (GET)
   
-  /usu/cargos/salvar
+  /usu/cargos/salvar (POST)
   
-  /usu/cargos/editar
+  /usu/cargos/editar (POST)
   
-  /usu/cargos/excluir
+  /usu/cargos/excluir (DELETE)
