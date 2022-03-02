@@ -1,0 +1,177 @@
+[
+    {
+        "nome": "Jose",
+        "sobrenome": "Campos",
+        "cargo": [
+            {
+                "idCargo": 1,
+                "titulo": "Analista de sistemas"
+            }
+        ],
+        "nascimento": "2000-06-08",
+        "email": "jose@email.com",
+        "senha": "jose01",
+        "telCelular": "(11) 900000000",
+        "telFixo": "(34) 33250000",
+        "endereco": "RUA. Pereira 01",
+        "numero": "01",
+        "complemento": "",
+        "bairro": "Centro",
+        "cep": "59158-000",
+        "cpf": "416.271.030-90",
+        "estadoCivil": "Solteiro",
+        "formacaoAcademica": "Bacharel em Sistemas de Informação",
+        "departamento": [
+                    {
+                        "idDepartamento": 3,
+                        "titulo": "Programação",
+                        "centroCusto": [
+                            {
+                                "idCentroCusto": 1,
+                                "titulo": "Desenvolvimento"
+                            }
+                        ]
+                    }
+                ]
+    },
+    {
+        "nome": "Maria",
+        "sobrenome": "Antonieta",
+        "cargo": [
+            {
+                "idCargo": 161,
+                "titulo": "Psicóloga"
+            }
+        ],
+        "nascimento": "1988-08-02",
+        "email": "maria@email.com",
+        "senha": "maria01",
+        "telCelular": "(21) 900000000",
+        "telFixo": "(31) 33250000",
+        "endereco": "RUA. Flores",
+        "numero": "02",
+        "complemento": "",
+        "bairro": "Jardins",
+        "cep": "42258-895",
+        "cpf": "099.392.290-20",
+        "estadoCivil": "Solteira",
+        "formacaoAcademica": "Bacharel em Psicologia",
+        "departamento": [
+                    {
+                        "idDepartamento": 1,
+                        "titulo": "Recursos Humanos",
+                        "centroCusto": [
+                            {
+                                "idCentroCusto": 2,
+                                "titulo": "Administração"
+                            }
+                        ]
+                    }
+                ]
+    },
+    {
+        "nome": "Marcio",
+        "sobrenome": "Pires Souza",
+        "cargo": [
+            {
+                "idCargo": 162,
+                "titulo": "Estoquista"
+            }
+        ],
+        "nascimento": "1992-12-11",
+        "email": "marcio@email.com",
+        "senha": "marcio01",
+        "telCelular": "(33) 900000000",
+        "telFixo": "(33) 33250000",
+        "endereco": "RUA. Graças",
+        "numero": "02",
+        "complemento": "",
+        "bairro": "Morada Nova",
+        "cep": "21858-561",
+        "cpf": "853.078.790-08",
+        "estadoCivil": "Solteiro",
+        "formacaoAcademica": "Técnico em logistica",
+        "departamento": [
+                    {
+                        "idDepartamento": 2,
+                        "titulo": "Estoque",
+                        "centroCusto": [
+                            {
+                                "idCentroCusto": 3,
+                                "titulo": "Material de escritório"
+                            }
+                        ]
+                    }
+                ]
+    },
+    {
+        "nome": "Claudio",
+        "sobrenome": "Antonio neto",
+        "cargo": [
+            {
+                "idCargo": 2,
+                "titulo": "Contador"
+            }
+        ],
+        "nascimento": "2001-09-05",
+        "email": "claudio@email.com",
+        "senha": "claudio01",
+        "telCelular": "(44) 900000000",
+        "telFixo": "(44) 33250000",
+        "endereco": "RUA. Palmeiras",
+        "numero": "02",
+        "complemento": "",
+        "bairro": "Cocais",
+        "cep": "16588-261",
+        "cpf": "496.273.560-85",
+        "estadoCivil": "Solteiro",
+        "formacaoAcademica": "Bacharel em ciencias da contábeis",
+        "departamento": [
+                    {
+                        "idDepartamento": 62,
+                        "titulo": "Financeiro",
+                        "centroCusto": [
+                            {
+                                "idCentroCusto": 2,
+                                "titulo": "Administração"
+                            }
+                        ]
+                    }
+                ]
+    },
+    {
+        "nome": "Bruna",
+        "sobrenome": "Estanislau Silva",
+        "cargo": [
+            {
+                "idCargo": 163,
+                "titulo": "DBA"
+            }
+        ],
+        "nascimento": "1999-06-10",
+        "email": "bruna@email.com",
+        "senha": "bruna01",
+        "telCelular": "(55) 900000000",
+        "telFixo": "(55) 33250000",
+        "endereco": "RUA. Alegria",
+        "numero": "05",
+        "complemento": "",
+        "bairro": "Centro",
+        "cep": "25897-481",
+        "cpf": "947.571.940-72",
+        "estadoCivil": "Solteira",
+        "formacaoAcademica": "Bacharel em Análise de sistemas",
+        "departamento": [
+                    {
+                        "idDepartamento": 63,
+                        "titulo": "Administração de banco de dados",
+                        "centroCusto": [
+                            {
+                                "idCentroCusto": 66,
+                                "titulo": "DBA e Servidores"
+                            }
+                        ]
+                    }
+                ]
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "nome": "nome",
+    "sobrenome": "sobrenome",
+    "idDepartamento": 1,
+    "idCargo": 1,
+    "nascimento": "1999-01-01",
+    "email": "email@email.com",
+    "senha": "123",
+    "telCelular": "(00) 900000000",
+    "telFixo": "(0) 00000000",
+    "endereco": "Rua",
+    "numero": "000",
+    "complemento": "",
+    "bairro": "Centro",
+    "cep": "00000-000",
+    "cpf": "000.000.000-00",
+    "estadoCivil": "Solteiro",
+    "formacaoAcademica": "Bacharel em Sistemas de Informação"
+}
